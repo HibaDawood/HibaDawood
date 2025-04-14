@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hibadawood" alt="hibadawood" /></a> </p>
 
-- 🔭 I’m currently working on [Python_Projects_Arena](https://github.com/HibaDawood/Python_Projects_Arena)
+- 🔭 I’m currently working on [Python_Projects]
 
 - 🌱 I’m currently learning **Python**
 
