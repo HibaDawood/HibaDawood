@@ -1,3 +1,6 @@
+<img src="banner.png" style="width: 100%;" />
+
+
 # Hello 👋, I'm Hiba Muhammad Dawood
 ### Full Stack Developer
 
