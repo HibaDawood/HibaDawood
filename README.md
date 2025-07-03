@@ -1,4 +1,4 @@
-<img src="banner.png" style="width: 100%;" />
+<img src="my banner.png" style="width: 100%;" />
 
 
 # Hello 👋, I'm Hiba Muhammad Dawood
