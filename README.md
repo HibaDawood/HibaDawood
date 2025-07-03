@@ -1,39 +1,53 @@
-<h1 align="center">Hi 👋, I'm Hiba Muhammad Dawood</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+# Hello 👋, I'm Hiba Muhammad Dawood
+### Full Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hibadawood&label=Profile%20views&color=0e75b6&style=flat" alt="hibadawood" /> </p>
+Hi! I'm Hiba Muhammad Dawood – a passionate Full Stack Developer who loves turning ideas into beautiful, responsive websites.
+Skilled in TypeScript, Next.js, Tailwind CSS, Python, and clean UI/UX design.
+Currently diving into the world of AI & Agentic Systems to expand my development journey.
+Always learning, always building. 🚀
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hibadawood" alt="hibadawood" /></a> </p>
+## Contact Me
+<p><a href="https://www.linkedin.com/in/hiba-m-dawood/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/HibaXOfficial" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://www.instagram.com/chengsong_05/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
-- 🔭 I’m currently working on [OOP Assignment](https://github.com/HibaDawood/OOP-Assignment)
+## Skills
 
-- 🌱 I’m currently learning **Python🐍**
-
-- 👯 I’m looking to collaborate on **exciting AI/ML projects, creative tech builds, or innovative app ideas!**
-
-- 🤝 I’m looking for help with **AI model development, UI/UX design, or optimizing web apps.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/HibaDawood](https://github.com/HibaDawood)
-
-- 📝 I regularly write articles on [https://dynamic-blog-website-three.vercel.app/](https://dynamic-blog-website-three.vercel.app/)
-
-- 💬 Ask me about **AI, web development, UI/UX design, or emerging tech trends.**
-
-- 📫 How to reach me **hibam.dawood25@gmail.com**
-
-- ⚡ Fun fact **Yes! I'm funny🤭.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hiba-m-dawood/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hiba-m-dawood/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/hibam_dawood25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/hibam_dawood25" height="30" width="40" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hibadawood&show_icons=true&locale=en&layout=compact" alt="hibadawood" /></p>
+### My Personal Portfolio
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hibadawood&show_icons=true&locale=en" alt="hibadawood" /></p>
+🌐 Created a **Personal Portfolio Website** showcasing all my projects, skills, and professional journey — everything about me in one place.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hibadawood&" alt="hibadawood" /></p>
+[View Project](https://my-portfolio-orcin-nine-65.vercel.app/)
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=HibaDawood&show_icons=true&count_private=true&theme=radical" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HibaDawood&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HibaDawood&theme=radical" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/HibaDawood/count.svg?" alt="visitors count" />
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=HibaDawood" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HibaDawood&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+
