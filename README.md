@@ -32,7 +32,7 @@ Always learning, always building. 🚀
 
 🌐 Created a **Personal Portfolio Website** showcasing all my projects, skills, and professional journey — everything about me in one place.
 
-[View Project](https://my-portfolio-orcin-nine-65.vercel.app/)
+[View Project](https://personal-portfolio-nine-kappa-55.vercel.app/)
 
 ---
 
