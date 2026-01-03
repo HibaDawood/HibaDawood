@@ -40,7 +40,6 @@ Currently exploring AI systems and cloud-native backends.
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HibaDawood&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
