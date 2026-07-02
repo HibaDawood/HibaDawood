@@ -32,4 +32,4 @@ Hi, I’m Hiba Muhammad Dawood — a full-stack engineer focused on building sca
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HibaDawood&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
 
 ### 👁️ Visitors Count
-![](https://img.shields.io/api/views/visual/HibaDawood.svg?color=ff757f&label=Views&style=flat)
+![](https://count.getloli.com/get/@HibaDawood?theme=rule34)
