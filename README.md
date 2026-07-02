@@ -21,17 +21,18 @@ Hi, I’m Hiba Muhammad Dawood — a full-stack engineer focused on building sca
 
 # 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HibaDawood&theme=radical&no-frame=false&no-bg=false" alt="Hiba's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HibaDawood&theme=radical" alt="Hiba's Trophies" />
 </p>
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HibaDawood&theme=dark&show_icons=true&hide_border=false" alt="Hiba's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HibaDawood&theme=dark&hide_border=false" alt="Hiba's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HibaDawood&theme=dark&show_icons=true" alt="Hiba's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HibaDawood&theme=dark" alt="Hiba's Streak" />
 </p>
 
+# 🗂️ Top Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HibaDawood&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HibaDawood&theme=dark&layout=compact" alt="Top Languages" />
 </p>
 
 ### ✍️ Random Dev Quote:
@@ -46,5 +47,5 @@ Hi, I’m Hiba Muhammad Dawood — a full-stack engineer focused on building sca
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=HibaDawood&icon=4&color=0" alt="Visitor Count" /></a>
+  <img src="https://visitcount.itsvg.in/api?id=HibaDawood&icon=4&color=0" alt="Visitor Count" />
 </p>
