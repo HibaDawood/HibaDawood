@@ -1,12 +1,17 @@
-<img src="my-banner.png" style="width: 100%;" />
+<img src="banner.png" style="width: 100%;" />
 
 <h1 align="center"> Hello👋, I'm Hiba Muhammad Dawood</h1>
-<h3 align="center"> Full Stack Engineer</h3>
+<h3 align="center"> Full-Stack Engineer & Agentic AI Specialist</h3>
 
-Hi, I’m Hiba Muhammad Dawood — a full-stack engineer focused on building scalable, well-structured products. I work across frontend and backend with an emphasis on clarity, clean architecture, and spec-driven development. Currently exploring AI systems and cloud-native backends.
+Hi, I’m Hiba Muhammad Dawood — a Full-Stack Developer passionate about building intelligent applications and exploring the world of Agentic AI. I enjoy turning ideas into practical solutions and continuously learning new technologies.
 
 # 💫 About Me:
-🔭 I'm currently working on Designing digital product architectures and building scalable UI templates for global marketplaces with optimized Tailwind performance.<br>🌱 I'm currently learning Next-gen AI workflows by studying research thesis on Agent Factory patterns and automated multi-agent system deployment.<br>👯 I'm looking to collaborate on Open-source full-stack projects, scalable web apps, and modern AI agent workflows.<br>💬 Ask me about Full-stack architecture, production-ready Next.js applications, and AI agent workflows.<br>📫 How to reach me hibam.dawood25@gmail.com<br>⚡ Fun fact: I write code that works on the first try (sometimes).
+🔭 I'm currently building full-stack applications and exploring practical AI agent solutions.
+🌱 I'm continuously exploring Agentic AI, multi-agent systems, and intelligent application development.
+👯 I'm looking to collaborate on open-source projects, full-stack applications, and AI-powered solutions.
+💬 Ask me about full-stack development, AI agents, and intelligent applications.
+📫 Reach me at: hibam.dawood25@gmail.com
+⚡ Fun fact: I love turning creative ideas into working projects.
 
 ## 🌐 Socials:
 
