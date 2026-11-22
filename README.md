@@ -6,11 +6,11 @@
 Hi, I’m Hiba Muhammad Dawood — a Full-Stack Developer passionate about building intelligent applications and exploring the world of Agentic AI. I enjoy turning ideas into practical solutions and continuously learning new technologies.
 
 # 💫 About Me:
-🔭 I'm currently building full-stack applications and exploring practical AI agent solutions.
-🌱 I'm continuously exploring Agentic AI, multi-agent systems, and intelligent application development.
-👯 I'm looking to collaborate on open-source projects, full-stack applications, and AI-powered solutions.
-💬 Ask me about full-stack development, AI agents, and intelligent applications.
-📫 Reach me at: hibam.dawood25@gmail.com
+🔭 I'm currently building full-stack applications and exploring practical AI agent solutions.<br>
+🌱 I'm continuously exploring Agentic AI, multi-agent systems, and intelligent application development.<br>
+👯 I'm looking to collaborate on open-source projects, full-stack applications, and AI-powered solutions.<br>
+💬 Ask me about full-stack development, AI agents, and intelligent applications.<br>
+📫 Reach me at: hibam.dawood25@gmail.com<br>
 ⚡ Fun fact: I love turning creative ideas into working projects.
 
 ## 🌐 Socials:
